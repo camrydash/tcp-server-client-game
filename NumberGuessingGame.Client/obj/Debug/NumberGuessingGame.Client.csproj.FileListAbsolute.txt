@@ -1,0 +1,5 @@
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\NumberGuessingGame.Client\bin\Debug\NumberGuessingGame.Client.exe.config
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\NumberGuessingGame.Client\bin\Debug\NumberGuessingGame.Client.exe
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\NumberGuessingGame.Client\bin\Debug\NumberGuessingGame.Client.pdb
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\NumberGuessingGame.Client\obj\Debug\NumberGuessingGame.Client.exe
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\NumberGuessingGame.Client\obj\Debug\NumberGuessingGame.Client.pdb

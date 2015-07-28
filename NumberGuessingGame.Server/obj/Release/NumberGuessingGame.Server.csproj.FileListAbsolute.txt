@@ -1,0 +1,8 @@
+C:\gitrepo\MedBridge\NumberGuessingGame\NumberGuessingGame.Server\bin\Release\NumberGuessingGame.Server.exe.config
+C:\gitrepo\MedBridge\NumberGuessingGame\NumberGuessingGame.Server\bin\Release\NumberGuessingGame.Server.exe
+C:\gitrepo\MedBridge\NumberGuessingGame\NumberGuessingGame.Server\bin\Release\NumberGuessingGame.Server.pdb
+C:\gitrepo\MedBridge\NumberGuessingGame\NumberGuessingGame.Server\bin\Release\NumberGuessingGame.Domain.dll
+C:\gitrepo\MedBridge\NumberGuessingGame\NumberGuessingGame.Server\bin\Release\NumberGuessingGame.Domain.pdb
+C:\gitrepo\MedBridge\NumberGuessingGame\NumberGuessingGame.Server\obj\Release\NumberGuessingGame.Server.csprojResolveAssemblyReference.cache
+C:\gitrepo\MedBridge\NumberGuessingGame\NumberGuessingGame.Server\obj\Release\NumberGuessingGame.Server.exe
+C:\gitrepo\MedBridge\NumberGuessingGame\NumberGuessingGame.Server\obj\Release\NumberGuessingGame.Server.pdb

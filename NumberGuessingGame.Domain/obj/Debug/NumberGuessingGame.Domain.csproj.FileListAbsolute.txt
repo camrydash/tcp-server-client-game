@@ -1,0 +1,4 @@
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\bin\Debug\NumberGuessingGame.Domain.dll
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\bin\Debug\NumberGuessingGame.Domain.pdb
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\obj\Debug\NumberGuessingGame.Domain.dll
+C:\gitrepo\MedBridge\NumberGuessingGame.Domain\obj\Debug\NumberGuessingGame.Domain.pdb
